@@ -1,5 +1,13 @@
 {
   "cSpell.ignoreWords": [
-    "tipagens"
+    "cli",
+    "dev",
+    "js",
+    "modules",
+    "node",
+    "tipagens",
+    "ts",
+    "typeorm",
+    "user"
   ]
 }
