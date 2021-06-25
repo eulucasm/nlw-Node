@@ -1,6 +1,8 @@
 {
   "cSpell.ignoreWords": [
+    "authenticate",
     "cli",
+    "controller",
     "dev",
     "js",
     "modules",
