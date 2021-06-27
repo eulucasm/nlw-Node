@@ -7,7 +7,7 @@ Garanto que o esforço e dedicação colocados aqui foram além do esperado e su
 ## o que foi visto e utilizado nessa API ?
 
 - Utilizamos Migrations;
-- ORM;
+- TypeORM para integrar DB;
 - repositories - camada responsável por se comunicar com o DB;
 - middlewares - interceptadores de requisição;
 - Adicionei informações no request via middleware;
